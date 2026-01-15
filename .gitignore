@@ -12,3 +12,8 @@
 /assets/completions/bat.zsh
 /assets/manual/bat.1
 /assets/metadata.yaml
+
+# Agent files
+**/AGENTS.md
+**/CLAUDE.md
+**/GEMINI.md
